@@ -43,7 +43,9 @@
 - 📖 Ler e adquirir novos conhecimentos.
 
 ## Vamos conversar
+
 Adoro trocar ideias e acredito que boas conexões são o ponto de partida para grandes projetos e ideias.
-📫 Contato:
-[LinkedIn](https://www.linkedin.com/in/jose-easilva/)
-discord → ed_0pr3to
+
+📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/jose-easilva/)
+- discord → ed_0pr3to
