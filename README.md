@@ -42,6 +42,10 @@
 - 🎧 Ouvir música, podcasts e explorar séries/filmes.
 - 📖 Ler e adquirir novos conhecimentos.
 
+## Status do Perfil
+
+![José Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdSillva&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdSillva&layout=compact&theme=radical)
+
 ## Vamos conversar
 
 Adoro trocar ideias e acredito que boas conexões são o ponto de partida para grandes projetos e ideias.
