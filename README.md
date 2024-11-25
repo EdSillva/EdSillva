@@ -44,7 +44,7 @@
 
 ## Status do Perfil
 
-![José Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdSillva&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdSillva&layout=compact&tlang_count=5)
+![José Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdSillva&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdSillva&layout=compact&theme=radical&lang_count=5)
 
 ## Vamos conversar
 
