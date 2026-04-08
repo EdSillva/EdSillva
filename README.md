@@ -1,11 +1,11 @@
 # José Edson
 
-👋 Olá! Meu nome é José Edson, um entusiasta do desenvolvimento mobile e tecnologias modernas. Atualmente, trabalho como Desenvolvedor Mobile focado em Flutter, criando soluções práticas e inovadoras para aplicações móveis.
+👋 Olá! Meu nome é José Edson, um entusiasta do desenvolvimento frontend e mobile. Atualmente, trabalho como Desenvolvedor Frontend com VueJS e Desenvolvedor Mobile com Flutter. Adoro criar interfaces bonitas, funcionais e escaláveis.
 
 ## 🎯 Sobre Mim
 
 - 🎓 Graduado em Administração pela Unicap e cursando Análise e Desenvolvimento de Sistemas na Unit.
-- 💼 Profissional com experiência em desenvolvimento mobile e habilidades em frontend, com foco em Flutter.
+- 💼 Profissional com experiência em desenvolvimento mobile e frontend, com foco em Flutter e VueJS.
 - 💡 Sou apaixonado por desenvolvimento de interfaces de usuário intuitivas e criativas.
 
 ### Qualidades:
@@ -32,13 +32,14 @@
 ![Frame 180](https://github.com/user-attachments/assets/ddc2a211-8b59-4299-9d91-ba9dc2f1fd91) ![Frame 179](https://github.com/user-attachments/assets/f5a769ee-c2d9-4d3e-b206-cde2d45243d0)
 
 🌱 Atualmente Aprendendo
-- Aprofundamento no Spring Boot para desenvolvimento de APIs Rest.
-- Evoluindo para desenvolvedor pleno em Flutter.
+- Desenvolvimento de APIs com golang.
+- Evoluindo meus conhecimentos em Frontend.
+- Adentrando no mundo de agentes de IA.
 - Melhorando habilidades em listening e speaking em inglês.
 
 📌 Hobbies e Interesses
 - 🚴 Pedalar e andar de skate.
-- 🎲 Jogar RPG de mesa clássico.
+- 🎲 Jogar RPG de mesa clássico de forma remota.
 - 🎧 Ouvir música, podcasts e explorar séries/filmes.
 - 📖 Ler e adquirir novos conhecimentos.
 
@@ -52,4 +53,3 @@ Adoro trocar ideias e acredito que boas conexões são o ponto de partida para g
 
 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/jose-easilva/)
-- discord → ed_0pr3to
