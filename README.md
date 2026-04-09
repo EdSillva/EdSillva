@@ -12,25 +12,31 @@
 - Trabalho bem em equipe 🧑‍🤝‍🧑
 - Proativo e adaptativo ⚡
 - Sempre buscando aprender e me atualizar 📚
+---
+💻 Frontend
 
-💻 Tecnologias
+<img width="100" height="40" alt="Frame 161" src="https://github.com/user-attachments/assets/ec5753e7-1f39-43d5-a74a-314ab04c8554" /> <img width="100" height="40" alt="Frame 237" src="https://github.com/user-attachments/assets/ff7dfca0-3167-456e-9fcf-7835381c66c3" /> <img width="100" height="40" alt="Frame 236" src="https://github.com/user-attachments/assets/244a7551-0fbd-4fc0-af4d-d2ca327070e5" /> <img width="100" height="40" alt="Frame 238" src="https://github.com/user-attachments/assets/5b42ded3-4fcc-4d71-8696-e58f0eb4b824" /> <img width="100" height="40" alt="Frame 239" src="https://github.com/user-attachments/assets/04164973-90bb-4fac-bf12-e1960b0be88a" /> <img width="100" height="40" alt="Frame 240" src="https://github.com/user-attachments/assets/cc612491-e590-4199-ae79-1f52bf3522e8" /> <img width="100" height="40" alt="Frame 241" src="https://github.com/user-attachments/assets/65406973-1af6-4e6a-9e22-0243edd448d2" />
 
-![Frame 169](https://github.com/user-attachments/assets/c675849e-705c-4c8f-92af-51e168044df6) ![Frame 167](https://github.com/user-attachments/assets/ca5f4779-a56f-4abd-a727-998fbf9e12b0) ![Frame 164](https://github.com/user-attachments/assets/cc543d25-eb03-4500-9b01-1329a33323a4) ![Frame 163](https://github.com/user-attachments/assets/57d6e893-827a-4fd1-a2b1-bf01e5793900) ![Frame 162](https://github.com/user-attachments/assets/24eee932-fa84-4a69-996e-4dbb5665cbb3) ![Frame 161](https://github.com/user-attachments/assets/ba0ce53d-1301-485d-b126-ab856feb3ddb)
+📱 Mobile
 
-![Frame 168](https://github.com/user-attachments/assets/ee5aba5d-a651-4ac1-b6f8-df5ba99c9f45) ![Frame 166](https://github.com/user-attachments/assets/62688d09-f34e-4f32-8457-c1ac44598aa7) ![Frame 165](https://github.com/user-attachments/assets/82a0a2c8-b498-41ca-8e72-20669a8a1196) ![Frame 170](https://github.com/user-attachments/assets/7c72cb2c-cffe-456d-a3b0-0cb7d2767a25)
+<img width="100" height="40" alt="Frame 243" src="https://github.com/user-attachments/assets/63b75167-bfe5-4276-be06-4b2c0c91083f" /> <img width="100" height="40" alt="Frame 244" src="https://github.com/user-attachments/assets/b9ea01c6-5811-40b5-b011-1a2d7d090428" />
 
-🎲 Bancos de dados
+🧩 Backend
 
-![Frame 174](https://github.com/user-attachments/assets/9ceb7cbd-a950-4606-9833-1e85e6842fac) ![Frame 173](https://github.com/user-attachments/assets/989e15f3-ddb4-4cde-b5e4-ea7bcba93aa2) ![Frame 172](https://github.com/user-attachments/assets/e1c564c9-a6d2-4c05-912b-b17707688d7e) ![Frame 171](https://github.com/user-attachments/assets/22a38a19-303c-4419-a7a0-cca722108a0f)
+<img width="100" height="40" alt="Frame 245" src="https://github.com/user-attachments/assets/05efcf6a-5b6d-45fc-80f4-a89fdcee2dfc" /> <img width="100" height="40" alt="Frame 246" src="https://github.com/user-attachments/assets/1abb0a8c-c76c-4844-9284-9149544c47cb" /> <img width="100" height="40" alt="Frame 247" src="https://github.com/user-attachments/assets/19134924-eb95-430c-b0fc-f942102b95ac" />
 
-🛠️ Ferramentas
+🎲 Banco de dados
 
-![Frame 178](https://github.com/user-attachments/assets/24e01814-d980-4f34-95a5-d74d6ee744a2) ![Frame 177](https://github.com/user-attachments/assets/21f83af4-8b04-4279-bcf7-1d3253dc1e5e) ![Frame 176](https://github.com/user-attachments/assets/49568590-6eb1-4300-982a-f0f55876cac0)
+<img width="100" height="40" alt="Frame 248" src="https://github.com/user-attachments/assets/29bbe93c-f3cc-4a19-8c26-24d6da94e61a" /> <img width="100" height="40" alt="Frame 249" src="https://github.com/user-attachments/assets/209c919b-d4b9-47e6-badc-2eed32524185" /> <img width="100" height="40" alt="Frame 250" src="https://github.com/user-attachments/assets/c98cf37a-2da5-4ec2-83ea-b965572aa473" />
 
-🧠 Outros conhecimentos
+⚔️ Outras ferramentas
 
-![Frame 180](https://github.com/user-attachments/assets/ddc2a211-8b59-4299-9d91-ba9dc2f1fd91) ![Frame 179](https://github.com/user-attachments/assets/f5a769ee-c2d9-4d3e-b206-cde2d45243d0)
+<img width="100" height="40" alt="Frame 253" src="https://github.com/user-attachments/assets/059f4c80-cc3a-4367-be2b-0241c6363de6" /> <img width="100" height="40" alt="Frame 254" src="https://github.com/user-attachments/assets/139ec49f-ddd9-41b7-b58c-0787a8ca33f7" /> <img width="100" height="40" alt="Frame 173" src="https://github.com/user-attachments/assets/c78772a2-c8b3-4a49-bc6d-70964916023d" /> <img width="100" height="40" alt="Frame 251" src="https://github.com/user-attachments/assets/63f4248a-3bb3-4c61-935d-8b73dddacf0a" /> <img width="100" height="40" alt="Frame 252" src="https://github.com/user-attachments/assets/9f3070f6-30fd-46f7-a796-2e25200f3d66" />
 
+📜 Metodologias
+
+<img width="100" height="40" alt="Frame 179" src="https://github.com/user-attachments/assets/a197a20b-9851-42a4-9431-acae35f88d77" /> <img width="100" height="40" alt="Frame 180" src="https://github.com/user-attachments/assets/5fc6b36f-1fac-42a2-b1a9-7b2c4449ea51" />
+---
 🌱 Atualmente Aprendendo
 - Desenvolvimento de APIs com golang.
 - Evoluindo meus conhecimentos em Frontend.
